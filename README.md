@@ -1,6 +1,6 @@
 ### Hi there, I'm Johann 👋
 
-## I'm a Fullstack Trainee Developer, working with technologies such as JAVA 8, ANGULAR, ANDROID(Native) and MYSQL
+## I'm a Backend Developer, working with technologies such as Java and TypeScript
 
 - 🔭 I'm open to work!
 - 🌱 I’m currently getting better at Java, Angular and Deutsch!
