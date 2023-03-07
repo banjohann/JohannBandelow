@@ -4,8 +4,6 @@
 
 - 🔭 I'm open to work!
 - 🌱 I’m currently getting better at Java, Angular and Deutsch!
-- 🥅 Framework goals: Learn Angular and Spring!
-- ⚡ Fun fact: I'm already billingual, trying to become trilingual!
 
 - Some of my primary knowledges:
 - Java
