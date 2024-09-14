@@ -1,2 +1,2 @@
 
-[linkedin]: https://www.linkedin.com/in/johannabandelow/
+Se leu mamou
