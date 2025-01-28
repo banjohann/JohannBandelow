@@ -1,2 +1,1 @@
 
-Se leu mamou
